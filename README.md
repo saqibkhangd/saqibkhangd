@@ -16,7 +16,7 @@
 </p>
 ---
  
-I'm a full stack developer who builds ecommerce stores, headless websites and custom web apps for growing businesses. From Shopify and WordPress to Next.js and Astro front ends, Laravel and Node.js back ends, and AI-powered automations, I handle the whole build: design in Figma, code, deployment and support after launch.
+I'm a full stack developer who builds ecommerce stores, headless websites and custom web apps for growing businesses. From Shopify and WordPress to Next.js and Astro front ends, Laravel and Node.js back ends, and AI-powered automations, I handle the whole build: code, deployment and support after launch.
  
 - 🛍️ Building **Shopify, Shopify Plus & WooCommerce** stores that sell
 - 🔗 Shipping **headless builds**: Shopify, WordPress or Sanity behind Next.js and Astro front ends
