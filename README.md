@@ -1,9 +1,29 @@
-<h1 align="center">Hi, I'm Saqib Khan 👋</h1> <p align="center"><b>Full Stack Developer</b> building Shopify stores, WordPress sites and Next.js apps that make money.</p> <p align="center"> <a href="https://saqibrkhan.com"><img src="https://img.shields.io/badge/Website-saqibrkhan.com-2f7d4f?style=flat-square" alt="Website"></a> <a href="https://www.upwork.com/freelancers/~01297b8299fc08c4ad"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork Top Rated"></a> <a href="https://www.linkedin.com/in/saqib-razzaq-khan-087826348/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/_skthink/"><img src="https://img.shields.io/badge/Instagram-__skthink-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
-About me
-Top Rated on Upwork with a 100% Job Success score and 7+ years of experience
-I build for business owners: more of the right visitors, more visitors who buy, bigger orders and lower running costs
-You work with me directly. I scope it, design it in Figma, write the code and support it after launch
-What I build
+<a href="https://saqibrkhan.com"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3D924D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saqib+Khan+%F0%9F%91%8B;Full+Stack+Developer;Shopify+%7C+WordPress+%7C+Next.js;I+build+stores+people+buy+from" alt="Typing SVG" /> </a> <h3 align="center">Full Stack Developer · Shopify, WordPress & Next.js · Top Rated on Upwork</h3> <p align="center"> <a href="https://saqibrkhan.com"><img src="https://img.shields.io/badge/Website-saqibrkhan.com-3D924D?style=flat-square" alt="Website"></a> <a href="https://www.upwork.com/freelancers/~01297b8299fc08c4ad"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-14a800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork Top Rated"></a> <a href="https://www.linkedin.com/in/saqib-razzaq-khan-087826348/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:info@saqibrkhan.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/saqibkhangd?tab=followers"><img src="https://img.shields.io/github/followers/saqibkhangd?label=Followers&style=flat-square&logo=github" alt="GitHub followers"></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=saqibkhangd&color=3D924D&style=flat-square&label=Profile+views" alt="Profile views" /> </p>
+
+I build ecommerce websites for business owners who want more sales, not just a new design. Shopify stores, WordPress and WooCommerce sites, and fast Next.js front ends, designed in Figma and built to load fast, rank well and turn visitors into buyers.
+
+🛍️ Building Shopify & Shopify Plus stores, redesigns and custom sections
+🧩 Creating WordPress & WooCommerce sites, custom themes and plugins
+⚡ Shipping headless commerce: Shopify or WordPress behind a Next.js front end
+⚙️ Automating stores: order routing, stock alerts, CRM and sheet syncs
+📈 Fixing speed, CRO & SEO so more visitors turn into customers
+🏆 Top Rated on Upwork · 7+ years of experience
+📫 Reach me at info@saqibrkhan.com
+🧰 Tech Stack
+
+Frontend
+
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Ecommerce & CMS
+
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Backend & Tools
+
+Show Image Show Image Show Image Show Image
+
+🚀 What I Build
 	
 🛍️ Shopify & Shopify Plus	New stores, redesigns, custom sections and apps
 🧩 WordPress & WooCommerce	Business sites, online shops, custom themes and plugins
@@ -13,18 +33,14 @@ What I build
 ⚙️ Automations & integrations	Order routing, stock alerts, CRM and sheet syncs, custom APIs
 📈 Speed, CRO & SEO	Faster pages, better Core Web Vitals and more visitors who buy
 🛠️ Monthly care plans	Updates, fixes and improvements every month
-Tech I use
+📂 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3><a href="https://github.com/saqibkhangd/customer-data-overlap-tool">customer-data-overlap-tool</a></h3> <p>Finds overlapping customers across data sets, so you can clean and merge customer lists.</p> <img src="https://img.shields.io/github/stars/saqibkhangd/customer-data-overlap-tool?style=flat-square" alt="Stars"> <img src="https://img.shields.io/github/forks/saqibkhangd/customer-data-overlap-tool?style=flat-square" alt="Forks"> <img src="https://img.shields.io/github/languages/top/saqibkhangd/customer-data-overlap-tool?style=flat-square" alt="Top language"> </td> <td width="50%" valign="top"> <h3><a href="https://saqibrkhan.com">Client work</a></h3> <p>Most of my Shopify, WooCommerce and headless builds are private client stores. See the case studies on my website.</p> <a href="https://saqibrkhan.com"><img src="https://img.shields.io/badge/View-Case_studies-3D924D?style=flat-square" alt="View case studies"></a> </td> </tr> </table>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saqibkhangd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" /> <img src="https://streak-stats.demolab.com?user=saqibkhangd&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" /> </p>
+🧩 GitHub Contributions
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saqibkhangd/saqibkhangd/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saqibkhangd/saqibkhangd/output/github-snake.svg" /> <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/saqibkhangd/saqibkhangd/output/github-snake.svg" /> </picture>
+🤝 Let's Work Together
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+Have a store that isn't bringing in enough sales? Book a free 30-minute website audit and I'll show you where it's losing money.
 
-How I work
-Free website audit: a 30-minute call showing where your site is losing money
-Fixed proposal: scope, price and timeline in writing
-Design in Figma: approved by you before any code
-Build and review: a private preview link and weekly updates
-Launch: plus 30 days of free fixes
-Let's work together
-
-Have a site that isn't bringing in enough sales? Book a free website audit or email me at info@saqibrkhan.com.
-
-<p align="center"><a href="https://saqibrkhan.com">saqibrkhan.com</a></p>
+<p align="center"> <a href="https://saqibrkhan.com"><img src="https://img.shields.io/badge/Website-3D924D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.upwork.com/freelancers/~01297b8299fc08c4ad"><img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a> <a href="https://www.linkedin.com/in/saqib-razzaq-khan-087826348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/_skthink/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="mailto:info@saqibrkhan.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
