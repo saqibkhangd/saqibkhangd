@@ -7,7 +7,7 @@ I build ecommerce websites for business owners who want more sales, not just a n
 ⚡ Shipping headless commerce: Shopify or WordPress behind a Next.js front end
 ⚙️ Automating stores: order routing, stock alerts, CRM and sheet syncs
 📈 Fixing speed, CRO & SEO so more visitors turn into customers
-🏆 Top Rated on Upwork · 7+ years of experience
+🏆 Top Rated on Upwork · 6+ years of experience
 📫 Reach me at info@saqibrkhan.com
 🧰 Tech Stack
 
@@ -35,8 +35,6 @@ Show Image Show Image Show Image Show Image
 🛠️ Monthly care plans	Updates, fixes and improvements every month
 📂 Featured Projects
 <table> <tr> <td width="50%" valign="top"> <h3><a href="https://github.com/saqibkhangd/customer-data-overlap-tool">customer-data-overlap-tool</a></h3> <p>Finds overlapping customers across data sets, so you can clean and merge customer lists.</p> <img src="https://img.shields.io/github/stars/saqibkhangd/customer-data-overlap-tool?style=flat-square" alt="Stars"> <img src="https://img.shields.io/github/forks/saqibkhangd/customer-data-overlap-tool?style=flat-square" alt="Forks"> <img src="https://img.shields.io/github/languages/top/saqibkhangd/customer-data-overlap-tool?style=flat-square" alt="Top language"> </td> <td width="50%" valign="top"> <h3><a href="https://saqibrkhan.com">Client work</a></h3> <p>Most of my Shopify, WooCommerce and headless builds are private client stores. See the case studies on my website.</p> <a href="https://saqibrkhan.com"><img src="https://img.shields.io/badge/View-Case_studies-3D924D?style=flat-square" alt="View case studies"></a> </td> </tr> </table>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saqibkhangd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" /> <img src="https://streak-stats.demolab.com?user=saqibkhangd&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" /> </p>
 🧩 GitHub Contributions
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saqibkhangd/saqibkhangd/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saqibkhangd/saqibkhangd/output/github-snake.svg" /> <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/saqibkhangd/saqibkhangd/output/github-snake.svg" /> </picture>
 🤝 Let's Work Together
